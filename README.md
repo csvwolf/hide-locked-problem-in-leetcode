@@ -1,4 +1,4 @@
-# Fuck Lock Problem in LeetCode
+# Hide Locked Problem in LeetCode
 A Chrome Extension to hide the locked ones!
 
 ## How to Use

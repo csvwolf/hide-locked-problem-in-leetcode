@@ -1,6 +1,6 @@
 {
-  "name": "Fuck Lock Problem In LeetCode",
-  "description": "Fuck Lock Problem In LeetCode",
+  "name": "Hide Locked Problem In LeetCode",
+  "description": "Hide Locked Problem In LeetCode",
   "version": "1.0",
   "permissions": [
     "activeTab", "http://leetcode.com/*", "https://leetcode.com/*"
