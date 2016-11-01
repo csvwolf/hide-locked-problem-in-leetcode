@@ -1,14 +1,20 @@
 {
   "name": "Hide Locked Problem In LeetCode",
   "description": "Hide Locked Problem In LeetCode",
-  "version": "1.0",
+  "version": "1.1",
   "permissions": [
-    "activeTab", "http://leetcode.com/*", "https://leetcode.com/*"
+    "webNavigation", "tabs", "http://leetcode.com/*", "https://leetcode.com/*"
   ],
+  "icons": {
+    "128": "icon.png"
+  },
   "browser_action": {
       "default_title": "Hidden the locked problems in leetcode.",
-      "default_icon": "icon.png",
-      "default_popup": "popup.html"
+      "default_icon": "icon.png"
+  },
+  "background": {
+    "scripts": ["event.js"],
+    "persistent": false
   },
   "manifest_version": 2
 }
