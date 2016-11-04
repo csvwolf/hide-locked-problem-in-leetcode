@@ -1,7 +1,7 @@
 {
   "name": "Hide Locked Problem In LeetCode",
   "description": "Hide Locked Problem In LeetCode",
-  "version": "1.1",
+  "version": "1.2",
   "permissions": [
     "webNavigation", "tabs", "http://leetcode.com/*", "https://leetcode.com/*"
   ],
